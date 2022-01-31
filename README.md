@@ -18,6 +18,10 @@ All the TS code live in _/src/_ directory. _index.tsx_ is the entry point for th
 
 Used material UI to style the application
 
+## Testing
+
+I focussed more on the app fucntionality, so I didn't get time to write tests.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
